@@ -9,6 +9,7 @@ public class ArrayListInJava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// This is the new edit
 		List<Integer> list = new ArrayList<Integer>();
 		
 		list.add(123);
