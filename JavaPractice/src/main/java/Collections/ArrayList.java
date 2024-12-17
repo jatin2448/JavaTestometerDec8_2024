@@ -7,6 +7,7 @@ public class ArrayList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//This is the new commit
 
 		List<String> fruites = new java.util.ArrayList<>();
 		fruites.add("Apple");
